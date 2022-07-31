@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "The default data for Minecraft"
+        },
+    "filter": {
+       "block": [
+           {
+               "namespace": "minecraft",
+               "path": "advancements/.*"
+            }
+        ]
+    }
+}
